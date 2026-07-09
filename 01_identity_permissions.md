@@ -135,11 +135,9 @@ diff master_log.txt backup_log.txt
 Output:
 3c3
 < This is line three of the log file.
----
 > This is a modified line three inside backup.
 12c12
 < This is line twelve of the log file.
----
 > This is a modified line twelve inside backup.
 
 4. touch: Updates access and modification timestamps without altering the contents if the file already exists.
