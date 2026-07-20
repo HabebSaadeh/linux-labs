@@ -79,7 +79,7 @@
 
 ## Section 6 — User Management Lifecycle
 
-⚠️ Do this only on a disposable VM/container.
+Do this only on a disposable VM/container.
 
 1. Create a new user named `labuser01` **with** an automatically created home directory.
 2. Set a password for `labuser01`.
